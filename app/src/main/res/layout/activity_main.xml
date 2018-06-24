@@ -36,7 +36,7 @@
                 android:paddingBottom="24dp"
                 android:gravity="center_horizontal"
                 android:textSize="56sp"
-                android:textColor="#6B238E"
+                android:textColor="#0000FF"
                 android:fontFamily="sans-serif"/>
 
             <Button
@@ -97,7 +97,7 @@
                 android:paddingBottom="24dp"
                 android:gravity="center_horizontal"
                 android:textSize="56sp"
-                android:textColor="#6B238E"
+                android:textColor="#800000"
                 android:fontFamily="sans-serif"/>
 
             <Button
